@@ -1,0 +1,15 @@
+# VerifiedDomainAuthority.com
+
+Independent reference on domain-based proof of authority.
+
+## Canonical Resource
+
+[Home](https://verifieddomainauthority.com/)
+
+## Purpose
+
+VerifiedDomainAuthority.com documents how domains can provide verifiable proof of authority for published statements and artifacts, with a focus on ownership, editorial control, publication integrity, and revocation discipline.
+
+## Repository
+
+[Verified Domain Authority Evidence Repository](https://github.com/semantic-infrastructure/verifieddomainauthority-evidence)
