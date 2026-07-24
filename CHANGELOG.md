@@ -59,6 +59,10 @@ All changes are additive or explicitly deprecated; no silent removals.
 
 ---
 
+July 2026 — Added llms.txt following LLMS Baseline v2.0 to provide a canonical machine-readable orientation layer for published resources.
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
