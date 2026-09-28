@@ -63,6 +63,10 @@ July 2026 — Added llms.txt following LLMS Baseline v2.0 to provide a canonical
 
 ---
 
+September 2026 — Corrected the JSON-LD `license` reference to align it with the established `license.md` resource. The license content itself remains unchanged. No change was made to the Evidence Layer content, semantic model, or repository structure.
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
